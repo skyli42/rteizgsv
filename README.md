@@ -1,5 +1,5 @@
 # rteizgsv
-##General
+## General
 [Google Colab](https://colab.research.google.com/)
 * Maybe useful for collaboration, plus free GPU resources
 * Basically Jupyter Notebook though

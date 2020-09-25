@@ -18,6 +18,9 @@
 [UM EECS498-007 Deep Learning for CV](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/)   
 [Discrete Fourier Transforms for image processing](https://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.htm)  
 * [Convolution Theorem](https://en.wikipedia.org/wiki/Convolution_theorem)  
+[Weld.rs](https://github.com/weld-project/weld) -- pretty sick compiler/environment for end-to-end parallelization and optimization of data applications, all done at runtime
+* [Weld](https://www.weld.rs/)
+[libxsmm](https://github.com/hfp/libxsmm) -- open source Intel project for small matrix multiplications, deep learning, convolutions, etc. Lots of parallelization and systems-level optimization done to speed up basic operations.
 
 
 

@@ -8,7 +8,7 @@
 
 [MIT 6.869 Advances in CV](http://6.869.csail.mit.edu/fa19/)  
 [Convolution](https://en.wikipedia.org/wiki/Convolution)  
-[Kernels](https://en.wikipedia.org/wiki/Kernel_(image_processing)  
+[Kernels](https://en.wikipedia.org/wiki/Kernel_(image_processing))  
 * [Gaussian and Laplacian Filters](https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm)  
 * [Box Filter](https://en.wikipedia.org/wiki/Box_blur)  
 * [Differential Kernels via finite difference](https://en.wikipedia.org/wiki/Image_derivatives)  
